@@ -3,7 +3,7 @@ Reporte de ações de mitigação de ocorrências da CET-RIO na cidade - Viníci
 
 ## Visão Geral
 
-Projeto de processo seletivo com intuito de buscar dados sobre ocorrências abertas das CET-RIO a partir de API's e desenvolver um report destas ocorrências.
+Projeto com intuito de buscar dados sobre ocorrências abertas das CET-RIO a partir de API's e desenvolver um report destas ocorrências.
 Cada na função deve gerar uma tabela csv dos dados e deve funcionar de 20 em 20 minutos.
 
 ## Pipeline
